@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/account"><img width="80%" alt="Hello, I'm Akshat" src="/profile pic.jpeg" /></a></p>
+<p align="center"><a href="https://github.com/account"><img width="50%" height="50%" alt="Hello, I'm Akshat" src="/profile pic.jpeg" /></a></p>
 
 <br />
 
